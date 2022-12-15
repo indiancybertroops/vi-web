@@ -21,11 +21,11 @@ A long list of regular expressions is used to identify technologies on web pages
    ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/indiancybertroopsy/&title=Profile%20Views)
 
 ## Instruction
-We Can Add Ip And Target Tracking System To Avoid Law Enforcement Consiquences And Misue Of Our All Tools 
-We Can Provide Ip To Law Enforcement Agencies According CRPC Notice 
-Any Illegal Activity May Leads To Legal Punishment 
-Read All T&C Carefully
-Read all commands carefully and install requirements file first
+>1 We Can Add Ip And Target Tracking System To Avoid Law Enforcement Consiquences And Misue Of Our All Tools 
+>2 We Can Provide Ip To Law Enforcement Agencies According CRPC Notice 
+>3 Any Illegal Activity May Leads To Legal Punishment 
+>4 Read All T&C Carefully
+>5 Read all commands carefully and install requirements file first
 
 ### Team Indian Cyber Troops:
 >Created By : Krishanu Sharma 
