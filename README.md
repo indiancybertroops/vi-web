@@ -42,7 +42,7 @@ read all commands carefully and install requirements file first
 
 >Without Brutforce(To save your valuable Time)
 # Main Vi-Web Image
-![](phanto-m.png)
+![](vi-web.png)
 # Installation :
 > clone via git clone
 
