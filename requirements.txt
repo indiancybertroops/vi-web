@@ -1,0 +1,5 @@
+marshal
+colorama
+requests
+argparse
+python-Wappalyzer
