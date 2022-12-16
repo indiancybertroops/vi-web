@@ -68,7 +68,7 @@ chmod +777 *
 pip install -r requirements.txt
 ```
 ```
-python3 vi-web.py
+python3 vi-web.py -u example.com
 ```
 
 
